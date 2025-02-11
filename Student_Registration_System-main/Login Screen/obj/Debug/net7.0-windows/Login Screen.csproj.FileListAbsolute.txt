@@ -1,0 +1,680 @@
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.exe
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.deps.json
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.runtimeconfig.json
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.pdb
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.AssemblyReference.cache
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\LoginView.g.cs
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\App.g.cs
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen_MarkupCompile.cache
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen_MarkupCompile.lref
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\MainWindow.baml
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\LoginView.baml
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.g.resources
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.GeneratedMSBuildEditorConfig.editorconfig
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.AssemblyInfoInputs.cache
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.AssemblyInfo.cs
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.CoreCompileInputs.cache
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.dll
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\refint\Login Screen.dll
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.pdb
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.genruntimeconfig.cache
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\ref\Login Screen.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.CopyComplete
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Humanizer.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+F:\GUI and Data structures\Login Screen\Login Screen\bin\Debug\net7.0-windows\FontAwesome.WPF.dll
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\RegistrationView.g.cs
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\RegistrationView.baml
+F:\GUI and Data structures\Login Screen\Login Screen\obj\Debug\net7.0-windows\App.baml
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\refint\Login Screen.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.pdb
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.AssemblyReference.cache
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\RegistrationView.baml
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\App.baml
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\AdminView.g.cs
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\LoginView.g.cs
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\RegistrationView.g.cs
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen_MarkupCompile.cache
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen_MarkupCompile.lref
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\AdminView.baml
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\LoginView.baml
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.g.resources
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.AssemblyInfoInputs.cache
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.AssemblyInfo.cs
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.CoreCompileInputs.cache
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.exe
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.deps.json
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.runtimeconfig.json
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.pdb
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\FontAwesome.WPF.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.CopyComplete
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.genruntimeconfig.cache
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\ref\Login Screen.dll
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\TeacherOptions.g.cs
+C:\Users\dhananjayawmt\Desktop\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\TeacherOptions.baml
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.exe
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.deps.json
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.runtimeconfig.json
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.pdb
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\FontAwesome.WPF.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Humanizer.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.AssemblyReference.cache
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\RegistrationView.baml
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\App.baml
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\AdminView.g.cs
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\LoginView.g.cs
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\RegistrationView.g.cs
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\App.g.cs
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen_MarkupCompile.cache
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen_MarkupCompile.lref
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\MainWindow.baml
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\AdminView.baml
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\LoginView.baml
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.g.resources
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.GeneratedMSBuildEditorConfig.editorconfig
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.AssemblyInfoInputs.cache
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.AssemblyInfo.cs
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.CoreCompileInputs.cache
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.CopyComplete
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\refint\Login Screen.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.pdb
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.genruntimeconfig.cache
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\ref\Login Screen.dll
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\TeacherOption.g.cs
+F:\GUI and Data structures\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\TeacherOption.baml
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.exe
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.deps.json
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.runtimeconfig.json
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.pdb
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\FontAwesome.WPF.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.AssemblyReference.cache
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\RegistrationView.baml
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\App.baml
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\AdminView.g.cs
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\LoginView.g.cs
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\RegistrationView.g.cs
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\TeacherOption.g.cs
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen_MarkupCompile.cache
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen_MarkupCompile.lref
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\AdminView.baml
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\LoginView.baml
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\TeacherOption.baml
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.g.resources
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.AssemblyInfoInputs.cache
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.AssemblyInfo.cs
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.CoreCompileInputs.cache
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.CopyComplete
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\refint\Login Screen.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.pdb
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.genruntimeconfig.cache
+C:\Users\dhananjayawmt\Desktop\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\ref\Login Screen.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.exe
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.deps.json
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.runtimeconfig.json
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.pdb
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\FontAwesome.WPF.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Humanizer.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.AssemblyReference.cache
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\RegistrationView.baml
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\App.baml
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\AdminView.g.cs
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\LoginView.g.cs
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\RegistrationView.g.cs
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\TeacherOption.g.cs
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\App.g.cs
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen_MarkupCompile.cache
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen_MarkupCompile.lref
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\MainWindow.baml
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\AdminView.baml
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\LoginView.baml
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\TeacherOption.baml
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.g.resources
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.GeneratedMSBuildEditorConfig.editorconfig
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.AssemblyInfoInputs.cache
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.AssemblyInfo.cs
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.CoreCompileInputs.cache
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.CopyComplete
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\refint\Login Screen.dll
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.pdb
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.genruntimeconfig.cache
+F:\GUI and Data structures\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\ref\Login Screen.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.AssemblyReference.cache
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\RegistrationView.baml
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\App.baml
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\AdminView.g.cs
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\LoginView.g.cs
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\RegistrationView.g.cs
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\TeacherOption.g.cs
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen_MarkupCompile.cache
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen_MarkupCompile.lref
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\refint\Login Screen.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.pdb
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.exe
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.deps.json
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.runtimeconfig.json
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.pdb
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\FontAwesome.WPF.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\AdminView.baml
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\LoginView.baml
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\TeacherOption.baml
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.g.resources
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.AssemblyInfoInputs.cache
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.AssemblyInfo.cs
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.CoreCompileInputs.cache
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.CopyComplete
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.genruntimeconfig.cache
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\ref\Login Screen.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.exe
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.deps.json
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.runtimeconfig.json
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.pdb
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\FontAwesome.WPF.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Humanizer.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.AssemblyReference.cache
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\RegistrationView.baml
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\App.baml
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\AdminView.g.cs
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\LoginView.g.cs
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\RegistrationView.g.cs
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\TeacherOption.g.cs
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\App.g.cs
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen_MarkupCompile.cache
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen_MarkupCompile.lref
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\MainWindow.baml
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\AdminView.baml
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\LoginView.baml
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\TeacherOption.baml
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.g.resources
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.GeneratedMSBuildEditorConfig.editorconfig
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.AssemblyInfoInputs.cache
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.AssemblyInfo.cs
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.CoreCompileInputs.cache
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.CopyComplete
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\refint\Login Screen.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.pdb
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.genruntimeconfig.cache
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\ref\Login Screen.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.exe
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.deps.json
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.runtimeconfig.json
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.pdb
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\FontAwesome.WPF.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Humanizer.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.AssemblyReference.cache
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\RegistrationView.baml
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\App.baml
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\MainWindow.g.cs
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\AdminView.g.cs
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\LoginView.g.cs
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\RegistrationView.g.cs
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\TeacherOption.g.cs
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\App.g.cs
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen_MarkupCompile.cache
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen_MarkupCompile.lref
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\MainWindow.baml
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\AdminView.baml
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\LoginView.baml
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\TeacherOption.baml
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.g.resources
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.AssemblyInfoInputs.cache
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.AssemblyInfo.cs
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.CoreCompileInputs.cache
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.CopyComplete
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\refint\Login Screen.dll
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.pdb
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.genruntimeconfig.cache
+C:\Users\dhananjayawmt\Desktop\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\ref\Login Screen.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.exe
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.deps.json
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.runtimeconfig.json
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Login Screen.pdb
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\FontAwesome.WPF.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Humanizer.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Data.Sqlite.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Abstractions.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Design.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Relational.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.EntityFrameworkCore.Sqlite.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Abstractions.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Caching.Memory.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Configuration.Abstractions.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.DependencyModel.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Logging.Abstractions.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Options.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Microsoft.Extensions.Primitives.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\Mono.TextTemplating.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.batteries_v2.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.core.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\SQLitePCLRaw.provider.e_sqlite3.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-arm\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-arm64\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\alpine-x64\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\browser-wasm\nativeassets\net7.0\e_sqlite3.a
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-arm\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-arm64\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-armel\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-mips64\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-arm\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-arm64\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-musl-x64\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-ppc64le\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-s390x\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-x64\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\linux-x86\native\libe_sqlite3.so
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\maccatalyst-arm64\native\libe_sqlite3.dylib
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\maccatalyst-x64\native\libe_sqlite3.dylib
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\osx-arm64\native\libe_sqlite3.dylib
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\osx-x64\native\libe_sqlite3.dylib
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-arm\native\e_sqlite3.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-arm64\native\e_sqlite3.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-x64\native\e_sqlite3.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\bin\Debug\net7.0-windows\runtimes\win-x86\native\e_sqlite3.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.AssemblyReference.cache
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\RegistrationView.baml
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\App.baml
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\AdminView.g.cs
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\LoginView.g.cs
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\RegistrationView.g.cs
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\TeacherOption.g.cs
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\App.g.cs
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen_MarkupCompile.cache
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen_MarkupCompile.lref
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\MainWindow.baml
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\AdminView.baml
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\LoginView.baml
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\TeacherOption.baml
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.g.resources
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.GeneratedMSBuildEditorConfig.editorconfig
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.AssemblyInfoInputs.cache
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.AssemblyInfo.cs
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.CoreCompileInputs.cache
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.csproj.CopyComplete
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\refint\Login Screen.dll
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.pdb
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Login Screen.genruntimeconfig.cache
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\ref\Login Screen.dll

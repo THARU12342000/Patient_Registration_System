@@ -1,0 +1,20 @@
+﻿Login_Screen
+1.0.0.0
+
+winexe
+C#
+.cs
+E:\ACADAMIC\Semester 3\PROJECT\Programming_Project\Project_4_Me\Patient_Registration_System_8\Student_Registration_System-main\Login Screen\obj\Debug\net7.0-windows\
+Login_Screen
+none
+false
+TRACE;DEBUG;NET;NET7_0;NETCOREAPP
+E:\ACADAMIC\Semester 3\PROJECT\Programming_Project\Project_4_Me\Patient_Registration_System_8\Student_Registration_System-main\Login Screen\App.xaml
+6-1240984680
+21150915296
+52-1419454127
+217-104828644
+MainWindow.xaml;View\AdminView.xaml;View\createDoctor.xaml;View\DoctorOption.xaml;View\LoginView.xaml;View\RegistrationView.xaml;
+
+False
+

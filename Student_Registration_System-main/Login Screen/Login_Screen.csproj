@@ -1,0 +1,70 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <RootNamespace>Login_Screen</RootNamespace>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\Admin_View_Background.jpeg" />
+    <None Remove="Images\Background.jpg" />
+    <None Remove="Images\Background_image.jpg" />
+    <None Remove="Images\BG2.jpg" />
+    <None Remove="Images\BG3.png" />
+    <None Remove="Images\close.png" />
+    <None Remove="Images\Doctor.png" />
+    <None Remove="Images\hat.png" />
+    <None Remove="Images\Img1.png" />
+    <None Remove="Images\minimize.jpg" />
+    <None Remove="Images\patient.png" />
+    <None Remove="Images\ResultBG2.jpg" />
+    <None Remove="Images\Symbol.png" />
+    <None Remove="Images\username.jpg" />
+    <None Remove="Images\xxxx.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <PackageReference Include="FontAwesome.WPF" Version="4.7.0.9" />
+    <PackageReference Include="Microsoft.Data.Sqlite.Core" Version="7.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore" Version="7.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="7.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Sqlite" Version="7.0.4" />
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Tools" Version="7.0.4">
+      <PrivateAssets>all</PrivateAssets>
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+    </PackageReference>
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Images\Admin_View_Background.jpeg" />
+    <Resource Include="Images\Background.jpg" />
+    <Resource Include="Images\Background_image.jpg" />
+    <Resource Include="Images\BG2.jpg">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </Resource>
+    <Resource Include="Images\BG3.png" />
+    <Resource Include="Images\close.png" />
+    <Content Include="Images\hat.png" />
+    <Resource Include="Images\doctor.png" />
+    <Resource Include="Images\Img1.png" />
+    <Resource Include="Images\minimize.jpg" />
+    <Resource Include="Images\patient.png" />
+    <Resource Include="Images\ResultBG2.jpg" />
+    <Resource Include="Images\Symbol.png" />
+    <Resource Include="Images\username.jpg" />
+    <Resource Include="Images\xxxx.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <None Update="Images\Username.png">
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+    </None>
+  </ItemGroup>
+
+</Project>
