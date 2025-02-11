@@ -1,0 +1,11 @@
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Student_Registration_System.csproj.AssemblyReference.cache
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\RegistrationView.baml
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\App.baml
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\MainWindow.g.cs
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\AdminView.g.cs
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\LoginView.g.cs
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\RegistrationView.g.cs
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\View\TeacherOption.g.cs
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\App.g.cs
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Student_Registration_System_MarkupCompile.cache
+F:\3rd Semester\GUI\Student Registration system\Student Registration system\Student Registration system\Student Registration\Login Screen\Login Screen\obj\Debug\net7.0-windows\Student_Registration_System_MarkupCompile.lref
